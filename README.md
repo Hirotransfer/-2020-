@@ -1,4 +1,4 @@
-# 大数据算法（2020年春季）
+# [中科大-大数据算法课程（2020年春季）](http://staff.ustc.edu.cn/~huding/data%20course.html)
 
 > 助教：
 >
